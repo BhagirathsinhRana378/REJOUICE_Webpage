@@ -4,32 +4,22 @@ The project replicates the look and feel of the original Rejouice site with an e
 
 ✨ Key Features
 ✅ Beautiful GSAP-powered animations
-
 ✅ Locomotive.js for smooth scroll (desktop only)
-
 ✅ Custom cursor and hover effects
-
 ✅ Video and image interactions
-
 ✅ Clean and organized HTML/CSS structure
-
 ✅ JavaScript used for scroll effects and transitions
-
 ❌ Not fully responsive (optimized mainly for desktop)
 
 🛠 Technologies Used
 HTML5
-
 CSS3
-
 JavaScript
-
 GSAP (GreenSock Animation Platform)
-
 Locomotive.js
 
 🚀 Live Demo
-Live at: https://yourusername.github.io/Rejouice-Clone
+Live at: https://bhagirathsinhrana378.github.io/REJOUICE_Webpage/
 
 Made with 🎬, 🎨, and a lot of 🎯
 Feel free to fork, explore, or contribute! Suggestions and feedback are always welcome.
