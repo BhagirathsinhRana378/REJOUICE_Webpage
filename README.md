@@ -1,4 +1,6 @@
 📌 Overview
+
+
 This is a Rejouice website clone built using HTML5, CSS3, and JavaScript, developed during my End of 2nd Semester of college.
 The project replicates the look and feel of the original Rejouice site with an emphasis on smooth animations and interactive scroll effects, making it an engaging visual experience despite being a small-scale project.
 
